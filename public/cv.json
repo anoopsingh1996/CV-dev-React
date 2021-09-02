@@ -1,0 +1,263 @@
+{
+  "brief": {
+    "person": {
+      "name": "Anoop Singh",
+      "title": "Software Developer",
+      "residence": "New Delhi, India.",
+      "headshot": {
+        "source": "http://localhost:3000/headshot.png"
+      },
+      "mobile": "+91 9622-340-774",
+      "web": "https://anoopsingh1996.github.io/",
+      "email": "anoopraghuvansi@gmail.com"
+    },
+    "links": [
+      {
+        "url": "https://www.linkedin.com/in/anoopsingh1996/",
+        "imageSource": "http://localhost:3000/linkedin.png",
+        "imageAlt": "LinkedIn"
+      },
+      {
+        "url": "https://medium.com/@anoopsingh1996",
+        "imageSource": "http://localhost:3000/stackoverflow.png",
+        "imageAlt": "Medium"
+      },
+      {
+        "url": "https://github.com/anoopsingh1996",
+        "imageSource": "http://localhost:3000/github.svg",
+        "imageAlt": "GitHub"
+      }
+    ],
+    "knowledge": {
+      "technologies": {
+        "items": [
+          {
+            "name": "Javascript",
+            "value": "Proficient"
+          },
+          {
+            "name": "Angular",
+            "value": "Proficient"
+          },
+          {
+            "name": "React",
+            "value": "Proficient"
+          },
+          {
+            "name": "Redux",
+            "value": "Proficient"
+          },
+          {
+            "name": "HTML",
+            "value": "Proficient"
+          },
+          {
+            "name": "S/CSS",
+            "value": "Proficient"
+          },
+          {
+            "name": "Python",
+            "value": "Proficient"
+          },
+          {
+            "name": "Git",
+            "value": "Proficient"
+          },
+          {
+            "name": "VueJS",
+            "value": "Intermediate"
+          },
+          {
+            "name": "Node.js",
+            "value": "Intermediate"
+          },
+          {
+            "name": "MongoDB",
+            "value": "Intermediate"
+          },
+          {
+            "name": "WebRTC",
+            "value": "Intermediate"
+          },
+          {
+            "name": "Socket.io",
+            "value": "Intermediate"
+          }
+        ]
+      },
+      "paradigms": {
+        "items": ["Test Driven", "Object Oriented", "CI/CD"]
+      }
+    }
+  },
+  "details": {
+    "experience": {
+      "items": [
+        {
+          "title": "Software Developer",
+          "company": "Lattice Innovation",
+          "startDate": "September 2018",
+          "paragraphs": [
+            "Responsible for creating front-end for various web applications with good UI/UX. These platforms range from Single Page Apps (SPAs)."
+          ],
+          "techStack": [
+            "Javascript",
+            "HTML",
+            "S/CSS",
+            "Angular",
+            "React",
+            "Redux"
+          ],
+          "projects": {
+            "items": [
+              {
+                "name": "CorAlert Device",
+                "startDate": "July 2017",
+                "paragraphs": [
+                  "Development of a software stack for a medical device which detects heart failure."
+                ],
+                "features": [
+                  "Upstream synchronization of logs and data.",
+                  "Downstream synchronization of software versions and configuration profiles.",
+                  "Configurable Parallelism of Medical algorithms"
+                ]
+              },
+              {
+                "name": "CorAlert Management Console",
+                "startDate": "July 2017",
+                "paragraphs": [
+                  "Development of a cloud application which complements the company's device."
+                ],
+                "features": [
+                  "Track the status of devices.",
+                  "Deploy configuration profiles to devices.",
+                  "Deploy software versions to devices.",
+                  "View device logs (both historical and real time).",
+                  "View device generated data."
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Mentor",
+          "company": "GSSOC'20",
+          "startDate": "February 2020",
+          "endDate": "May 2020",
+          "paragraphs": [
+            "Mentor on open source project Conference-Notify under the GirlScript Summer of Code-2020"
+          ],
+          "techStack": ["Angular", "NodeJs"],
+
+          "projects": {
+            "items": [
+              {
+                "name": "Video Camera Framework",
+                "startDate": "March 2016",
+                "endDate": "February 2017",
+                "paragraphs": [
+                  "The framework abstracts client code from intricacies of vendor implementation of video camera drivers."
+                ],
+                "features": [
+                  "Standardization of video camera functionality",
+                  "Extensible via Base Classes",
+                  "Configuration agnostic",
+                  "Protocol Agnostic - (IP, USB, etc.)"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Software Developer",
+          "company": "Provakil",
+          "startDate": "May 2018",
+          "endDate": "August 2018",
+          "paragraphs": [
+            "Developing new features in provakil platform, as specified by client stakeholders."
+          ],
+          "techStack": ["Vanilla js", "Backbone.js", "MongoDB", "nodejs"],
+          "projects": {
+            "items": [
+              {
+                "name": "Object Configuration Library",
+                "startDate": "September 2015",
+                "endDate": "March 2016",
+                "paragraphs": [
+                  "Developing a library which bridges the gap between native objects and managed code, By Mutating properties of live (in-memory) native objects via a C# API"
+                ]
+              },
+              {
+                "name": "Project Manager",
+                "startDate": "March 2014",
+                "endDate": "March 2016",
+                "paragraphs": [
+                  "Implementation of a Project Resource Management web application"
+                ],
+                "features": [
+                  "Manual input of work hours- per employee, per project, per date.",
+                  "Email notification of non complying employees.",
+                  "Management of employees, departments, projects and project categories.",
+                  "Report Generation"
+                ]
+              },
+              {
+                "name": "CDC / RegC Application",
+                "startDate": "February 2013",
+                "endDate": "March 2016",
+                "paragraphs": [
+                  "Maintaining and developing a composite-machine control application."
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "education": {
+      "items": [
+        {
+          "degree": "B.Tech in Computer Science and Engineering",
+          "institution": "​SMVDU,J&K,India",
+          "gpa": 7.28,
+          "classOf": 2018,
+          "projects": {
+            "name": "Smart Calendar",
+            "startDate": "March 2015",
+            "endDate": "January 2016",
+            "paragraphs": [
+              "An Android Application which enhances itinerary management with location awareness."
+            ],
+            "features": [
+              {
+                "name": "Leave on Time",
+                "paragraphs": [
+                  "Notify users when they should depart their current location, so that no appointment is ever missed"
+                ]
+              },
+              {
+                "name": "Scheduling Collision Detection",
+                "paragraphs": [
+                  "Warn users about events they would not be able to attend due to time and location constraints"
+                ]
+              },
+              {
+                "name": "Supervised Itinerary Management",
+                "paragraphs": [
+                  "A supervisor user (ex. a manager) can share a view only calendar with a supervised user (ex. employee)"
+                ]
+              },
+              {
+                "name": "Itinerary Progression Tracking",
+                "paragraphs": [
+                  "Informs supervisor users whenever their subordinates arrive at the venue, are going to be late to the venue or are leaving the venue ahead of time."
+                ]
+              }
+            ],
+            "techStack": ["C#", ".NET", "Entity Framework", "Android"]
+          }
+        }
+      ]
+    }
+  }
+}
