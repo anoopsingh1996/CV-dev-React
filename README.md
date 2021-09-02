@@ -1,4 +1,4 @@
-#Software Developer Resume Template using React
+# Software Developer Resume Template using React
 
 ## Tech Stack
 - React

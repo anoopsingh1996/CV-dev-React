@@ -28,9 +28,9 @@ export class Knowledge extends React.Component {
                               labelClassName={labelClassName}
                 />
 
-                <Paradigms value={paradigms}
+                {/* <Paradigms value={paradigms}
                            labelClassName={labelClassName}
-                />
+                /> */}
                 
             </div>
         );

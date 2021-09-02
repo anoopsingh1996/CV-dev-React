@@ -50,7 +50,7 @@ export class Person extends React.Component {
         <div className={titleClassName}>{title}</div>
         <address className={residenceClassName}>{residence}</address>
         <div className={mobileClassName}>{`${preMobile}${mobile}`}</div>
-        <div className={webClassName}>
+        <div className={webClassName} target="_blank">
           <a style={{ color: 'blue' }} href={web} target="_blank">
             anoopsingh1996.github.io
           </a>
